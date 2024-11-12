@@ -1,0 +1,83 @@
+.docx_content {
+  background: #fff;
+  padding: 10px;
+  width: 240px;
+  display: flex;
+ 
+  border-radius: 10px;
+  border: 1px solid #ccc;
+  position: relative;
+
+  .docx_content_img {
+    width: 20%;
+
+    img {
+      width: 30px;
+    }
+  }
+
+  .docx_content_close {
+    position: absolute;
+    top: 3px;
+    right: 5px;
+    color: #999;
+    font-size: 12px;
+  }
+
+  .docx_content_text {
+    width: 80%;
+
+    .docx_content_text_title {
+      // 单行文本省略号
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      width: 100%;
+      padding-bottom: 5px;
+    }
+
+    .docx_content_text_size {
+      font-size: 12px;
+      color: #999;
+    }
+
+  }
+
+}
+
+// 仿写
+.Imitative_writing {
+  display: flex;
+  justify-content: space-between;
+}
+
+// 上传范文
+.upload_ModelEssay {
+  background: #fff;
+  width: 240px;
+  display: flex;
+  border-radius: 10px;
+  border: 1px solid #ccc;
+    
+  border-radius: '10px';
+  font-size: '1vw';
+
+  padding: '20px 0';
+
+  .upload_ModelEssay_text {
+    width: 240px;
+    display: flex;
+    height: 100%;
+    align-items: center;
+    justify-content: space-around;
+  }
+}
+
+// loadding
+.upload_ModelEssay_spin {
+  width: 240px;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

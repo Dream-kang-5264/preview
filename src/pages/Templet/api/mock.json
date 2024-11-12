@@ -1,0 +1,1721 @@
+ 
+ 
+{
+    "metadata": {
+        "title": "未命名文档",
+        "author": "未知作者",
+        "created": "2024-10-17T01:31:05+00:00",
+        "modified": "2024-10-17T01:31:05+00:00",
+        "revision": 1
+    },
+    "settings": {
+        "margins": {
+            "top": 2.54,
+            "bottom": 2.54,
+            "left": 3.17,
+            "right": 3.17,
+            "header": 1.5,
+            "footer": 1.5
+        },
+        "paperSize": {
+            "width": 21,
+            "height": 29.7,
+            "orientation": "portrait"
+        },
+        "defaultFontFamily": "SimSun",
+        "defaultFontSize": 14,
+        "defaultLineSpacing": 1.5
+    },
+    "sections": [
+        {
+            "id": "1",
+            "type": "paragraph",
+            "level": null,
+            "content": "继承创新优秀文化 凝聚找矿磅礴力量——践行习近平总书记重要回信精神两周年之地质文化篇",
+            "style": {
+                "fontFamily": "SimSun",
+                "fontSize": 14,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "color": "#000000",
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "isUnderline": false
+            },
+            "spacing": {
+                "before": 0,
+                "after": 0,
+                "lineSpacing": 1.5,
+                "lineSpacingRule": "multiple"
+            },
+            "indentation": {
+                "left": 0,
+                "right": 0,
+                "firstLine": 0,
+                "hanging": 0
+            },
+            "isPageBreakBefore": false,
+            "isKeepWithNext": false,
+            "isKeepTogether": true
+        },
+        {
+            "id": "2",
+            "type": "paragraph",
+            "level": null,
+            "content": "编者按",
+            "style": {
+                "fontFamily": "SimSun",
+                "fontSize": 14,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "color": "#000000",
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "isUnderline": false
+            },
+            "spacing": {
+                "before": 0,
+                "after": 0,
+                "lineSpacing": 1.5,
+                "lineSpacingRule": "multiple"
+            },
+            "indentation": {
+                "left": 0,
+                "right": 0,
+                "firstLine": 0,
+                "hanging": 0
+            },
+            "isPageBreakBefore": false,
+            "isKeepWithNext": false,
+            "isKeepTogether": true
+        },
+        {
+            "id": "3",
+            "type": "paragraph",
+            "level": null,
+            "content": "在新中国成立75周年、习近平总书记给山东省地矿局第六地质大队全体地质工作者重要回信两周年之际，9月30日在京开幕的以“为国找矿 无上光荣”为主题的新中国成立75周年矿产勘查成就展，回顾地质工作光辉历程，展示矿产勘查辉煌成就，进一步统一了思想、凝聚了力量。两年来，地质矿业行业心怀“国之大者”，把思想和行动统一到习近平总书记重要回信精神上来，聚焦能源资源安全保障，全面深入推进新一轮找矿突破战略行动，不断完善政策保障、积极推进绿色勘查、持续加强科技创新、传承创新优秀文化，用实干与担当向新中国成立75周年深情献礼！",
+            "style": {
+                "fontFamily": "SimSun",
+                "fontSize": 14,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "color": "#000000",
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "isUnderline": false
+            },
+            "spacing": {
+                "before": 0,
+                "after": 0,
+                "lineSpacing": 1.5,
+                "lineSpacingRule": "multiple"
+            },
+            "indentation": {
+                "left": 0,
+                "right": 0,
+                "firstLine": 0,
+                "hanging": 0
+            },
+            "isPageBreakBefore": false,
+            "isKeepWithNext": false,
+            "isKeepTogether": true
+        },
+        {
+            "id": "6",
+            "type": "paragraph",
+            "level": null,
+            "content": "文化是一个国家、一个民族的灵魂。文化兴则国运兴，文化强则民族强。",
+            "style": {
+                "fontFamily": "SimSun",
+                "fontSize": 14,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "color": "#000000",
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "isUnderline": false
+            },
+            "spacing": {
+                "before": 0,
+                "after": 0,
+                "lineSpacing": 1.5,
+                "lineSpacingRule": "multiple"
+            },
+            "indentation": {
+                "left": 0,
+                "right": 0,
+                "firstLine": 0,
+                "hanging": 0
+            },
+            "isPageBreakBefore": false,
+            "isKeepWithNext": false,
+            "isKeepTogether": true
+        },
+        {
+            "id": "7",
+            "type": "paragraph",
+            "level": null,
+            "content": "地质工作是国家基础性、先行性工作，事关经济社会发展和国家长治久安。在伟大实践中孕育的优秀传统地质文化，古老而现代，厚重而绵长，积淀着地质行业最深沉的精神追求，代表着独特的精神标识，凝聚着新时代地质工作者为新中国发展的不懈奋斗。",
+            "style": {
+                "fontFamily": "SimSun",
+                "fontSize": 14,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "color": "#000000",
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "isUnderline": false
+            },
+            "spacing": {
+                "before": 0,
+                "after": 0,
+                "lineSpacing": 1.5,
+                "lineSpacingRule": "multiple"
+            },
+            "indentation": {
+                "left": 0,
+                "right": 0,
+                "firstLine": 0,
+                "hanging": 0
+            },
+            "isPageBreakBefore": false,
+            "isKeepWithNext": false,
+            "isKeepTogether": true
+        },
+        {
+            "id": "8",
+            "type": "paragraph",
+            "level": null,
+            "content": "2024年，是习近平总书记给山东省地矿局第六地质大队全体地质工作者重要回信两周年。“爱国奉献、艰苦奋斗、开拓创新”……全国各地，大江南北，有地质人的地方，就有重要回信响彻的声音。新时代地质文化正在浸入灵魂、融入血脉。",
+            "style": {
+                "fontFamily": "SimSun",
+                "fontSize": 14,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "color": "#000000",
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "isUnderline": false
+            },
+            "spacing": {
+                "before": 0,
+                "after": 0,
+                "lineSpacing": 1.5,
+                "lineSpacingRule": "multiple"
+            },
+            "indentation": {
+                "left": 0,
+                "right": 0,
+                "firstLine": 0,
+                "hanging": 0
+            },
+            "isPageBreakBefore": false,
+            "isKeepWithNext": false,
+            "isKeepTogether": true
+        },
+        {
+            "id": "9",
+            "type": "paragraph",
+            "level": null,
+            "content": "当今世界百年未有之大变局加速演进，文化越来越成为综合国力竞争的重要力量；中华民族伟大复兴进入关键时期，文化越来越成为强国建设、民族复兴的强大支撑。如何加强地质文化建设和传播，使优秀地质文化成为全行业的文化自觉？如何激发全行业文化创新创造活力，增强实现地质工作现代化的精神力量？",
+            "style": {
+                "fontFamily": "SimSun",
+                "fontSize": 14,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "color": "#000000",
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "isUnderline": false
+            },
+            "spacing": {
+                "before": 0,
+                "after": 0,
+                "lineSpacing": 1.5,
+                "lineSpacingRule": "multiple"
+            },
+            "indentation": {
+                "left": 0,
+                "right": 0,
+                "firstLine": 0,
+                "hanging": 0
+            },
+            "isPageBreakBefore": false,
+            "isKeepWithNext": false,
+            "isKeepTogether": true
+        },
+        {
+            "id": "10",
+            "type": "paragraph",
+            "level": null,
+            "content": "两年来，地质矿业行业自觉担负起新的文化使命，围绕贯彻落实党的二十大关于文化建设的战略部署，强化思想引领、坚持守正创新，大力唱响强信心的主旋律，地质文化发展之路愈走愈宽，为中国式现代化积蕴更基本、更深沉、更持久的力量。",
+            "style": {
+                "fontFamily": "SimSun",
+                "fontSize": 14,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "color": "#000000",
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "isUnderline": false
+            },
+            "spacing": {
+                "before": 0,
+                "after": 0,
+                "lineSpacing": 1.5,
+                "lineSpacingRule": "multiple"
+            },
+            "indentation": {
+                "left": 0,
+                "right": 0,
+                "firstLine": 0,
+                "hanging": 0
+            },
+            "isPageBreakBefore": false,
+            "isKeepWithNext": false,
+            "isKeepTogether": true
+        },
+        {
+            "id": "11",
+            "type": "paragraph",
+            "level": null,
+            "content": "人民至上",
+            "style": {
+                "fontFamily": "SimSun",
+                "fontSize": 14,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "color": "#000000",
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "isUnderline": false
+            },
+            "spacing": {
+                "before": 0,
+                "after": 0,
+                "lineSpacing": 1.5,
+                "lineSpacingRule": "multiple"
+            },
+            "indentation": {
+                "left": 0,
+                "right": 0,
+                "firstLine": 0,
+                "hanging": 0
+            },
+            "isPageBreakBefore": false,
+            "isKeepWithNext": false,
+            "isKeepTogether": true
+        },
+        {
+            "id": "12",
+            "type": "paragraph",
+            "level": null,
+            "content": "2023年12月8日，一首传唱大江南北的《勘探队员之歌》在北京地质礼堂飘荡，熟悉的旋律迅速引发全场观众的强烈共鸣。",
+            "style": {
+                "fontFamily": "SimSun",
+                "fontSize": 14,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "color": "#000000",
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "isUnderline": false
+            },
+            "spacing": {
+                "before": 0,
+                "after": 0,
+                "lineSpacing": 1.5,
+                "lineSpacingRule": "multiple"
+            },
+            "indentation": {
+                "left": 0,
+                "right": 0,
+                "firstLine": 0,
+                "hanging": 0
+            },
+            "isPageBreakBefore": false,
+            "isKeepWithNext": false,
+            "isKeepTogether": true
+        },
+        {
+            "id": "13",
+            "type": "paragraph",
+            "level": null,
+            "content": "唱响绿水青山，讴歌伟大时代，展现地质人风采，这场以地质人之名，属于地质人视觉风暴和文化盛宴的首届新时代地质文化艺术节凝聚了全国地质工作者“火焰般的热情”。",
+            "style": {
+                "fontFamily": "SimSun",
+                "fontSize": 14,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "color": "#000000",
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "isUnderline": false
+            },
+            "spacing": {
+                "before": 0,
+                "after": 0,
+                "lineSpacing": 1.5,
+                "lineSpacingRule": "multiple"
+            },
+            "indentation": {
+                "left": 0,
+                "right": 0,
+                "firstLine": 0,
+                "hanging": 0
+            },
+            "isPageBreakBefore": false,
+            "isKeepWithNext": false,
+            "isKeepTogether": true
+        },
+        {
+            "id": "14",
+            "type": "paragraph",
+            "level": null,
+            "content": "自地勘单位属地化以来，地质人太久没有像今天这样“大联欢”了！广大地质工作者纷纷表示，那种亲切的、浓浓的地质情将激励着自己以实际行动服务地质事业发展、书写更加辉煌的地质篇章。",
+            "style": {
+                "fontFamily": "SimSun",
+                "fontSize": 14,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "color": "#000000",
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "isUnderline": false
+            },
+            "spacing": {
+                "before": 0,
+                "after": 0,
+                "lineSpacing": 1.5,
+                "lineSpacingRule": "multiple"
+            },
+            "indentation": {
+                "left": 0,
+                "right": 0,
+                "firstLine": 0,
+                "hanging": 0
+            },
+            "isPageBreakBefore": false,
+            "isKeepWithNext": false,
+            "isKeepTogether": true
+        },
+        {
+            "id": "15",
+            "type": "paragraph",
+            "level": null,
+            "content": "源于人民、为了人民、属于人民，是社会主义文艺的根本立场，也是地质文艺繁荣发展的动力所在。",
+            "style": {
+                "fontFamily": "SimSun",
+                "fontSize": 14,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "color": "#000000",
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "isUnderline": false
+            },
+            "spacing": {
+                "before": 0,
+                "after": 0,
+                "lineSpacing": 1.5,
+                "lineSpacingRule": "multiple"
+            },
+            "indentation": {
+                "left": 0,
+                "right": 0,
+                "firstLine": 0,
+                "hanging": 0
+            },
+            "isPageBreakBefore": false,
+            "isKeepWithNext": false,
+            "isKeepTogether": true
+        },
+        {
+            "id": "16",
+            "type": "paragraph",
+            "level": null,
+            "content": "两年来，地质矿业行业坚持以人民为中心，紧紧围绕依靠谁、为了谁、服务谁的时代课题，不断满足地质工作者多层次、多样化、多方面的精神文化需求，群众文化生活日益丰富多彩，文化软实力大幅提升。",
+            "style": {
+                "fontFamily": "SimSun",
+                "fontSize": 14,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "color": "#000000",
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "isUnderline": false
+            },
+            "spacing": {
+                "before": 0,
+                "after": 0,
+                "lineSpacing": 1.5,
+                "lineSpacingRule": "multiple"
+            },
+            "indentation": {
+                "left": 0,
+                "right": 0,
+                "firstLine": 0,
+                "hanging": 0
+            },
+            "isPageBreakBefore": false,
+            "isKeepWithNext": false,
+            "isKeepTogether": true
+        },
+        {
+            "id": "17",
+            "type": "paragraph",
+            "level": null,
+            "content": "文艺创作精品迭出——",
+            "style": {
+                "fontFamily": "SimSun",
+                "fontSize": 14,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "color": "#000000",
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "isUnderline": false
+            },
+            "spacing": {
+                "before": 0,
+                "after": 0,
+                "lineSpacing": 1.5,
+                "lineSpacingRule": "multiple"
+            },
+            "indentation": {
+                "left": 0,
+                "right": 0,
+                "firstLine": 0,
+                "hanging": 0
+            },
+            "isPageBreakBefore": false,
+            "isKeepWithNext": false,
+            "isKeepTogether": true
+        },
+        {
+            "id": "18",
+            "type": "paragraph",
+            "level": null,
+            "content": "从反映地质人跋山涉水、攻坚克难，向沙漠、戈壁、荒原进军的《地质骄子》，到愿意扎根一线发光发热的《大地之光》《你会到野外看我吗》；从诠释地质人为国为民的担当与赤诚的《北京，不会震》，到牢记地质报国使命、砥砺前行的《重要回信的无穷力量》，再到展现新一轮找矿突破战略行动中地质人矢志奋斗、信心满满的《咱村找了富硒地》《新时代地质人》……地质工作者坚持深入生活、扎根人民，用一系列精品佳作回应时代主题和人民心声，深入挖掘地质文化的深刻内涵和时代价值，将地质文化延伸到基层和项目一线，营造了热热闹闹、全员参与的浓厚氛围。",
+            "style": {
+                "fontFamily": "SimSun",
+                "fontSize": 14,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "color": "#000000",
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "isUnderline": false
+            },
+            "spacing": {
+                "before": 0,
+                "after": 0,
+                "lineSpacing": 1.5,
+                "lineSpacingRule": "multiple"
+            },
+            "indentation": {
+                "left": 0,
+                "right": 0,
+                "firstLine": 0,
+                "hanging": 0
+            },
+            "isPageBreakBefore": false,
+            "isKeepWithNext": false,
+            "isKeepTogether": true
+        },
+        {
+            "id": "19",
+            "type": "paragraph",
+            "level": null,
+            "content": "文化宣传平台不断完善——",
+            "style": {
+                "fontFamily": "SimSun",
+                "fontSize": 14,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "color": "#000000",
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "isUnderline": false
+            },
+            "spacing": {
+                "before": 0,
+                "after": 0,
+                "lineSpacing": 1.5,
+                "lineSpacingRule": "multiple"
+            },
+            "indentation": {
+                "left": 0,
+                "right": 0,
+                "firstLine": 0,
+                "hanging": 0
+            },
+            "isPageBreakBefore": false,
+            "isKeepWithNext": false,
+            "isKeepTogether": true
+        },
+        {
+            "id": "20",
+            "type": "paragraph",
+            "level": null,
+            "content": "两年来，为深入贯彻落实习近平总书记关于建设社会主义文化强国的重要论述，围绕举旗帜、聚民心、育新人、兴文化、展形象的使命任务，《新时代地质文化传播规划（2023-2030年）》发布，中国地质调查局宣传教育中心挂牌，中国地质文学艺术界联合会和中国地质作家协会相继成立，一批地质行业的文艺工作者广泛凝聚，一系列文化活动风生水起，地质行业“大宣传”格局的四梁八柱逐步搭建。",
+            "style": {
+                "fontFamily": "SimSun",
+                "fontSize": 14,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "color": "#000000",
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "isUnderline": false
+            },
+            "spacing": {
+                "before": 0,
+                "after": 0,
+                "lineSpacing": 1.5,
+                "lineSpacingRule": "multiple"
+            },
+            "indentation": {
+                "left": 0,
+                "right": 0,
+                "firstLine": 0,
+                "hanging": 0
+            },
+            "isPageBreakBefore": false,
+            "isKeepWithNext": false,
+            "isKeepTogether": true
+        },
+        {
+            "id": "21",
+            "type": "paragraph",
+            "level": null,
+            "content": "文化阵地建设逐步夯实——",
+            "style": {
+                "fontFamily": "SimSun",
+                "fontSize": 14,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "color": "#000000",
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "isUnderline": false
+            },
+            "spacing": {
+                "before": 0,
+                "after": 0,
+                "lineSpacing": 1.5,
+                "lineSpacingRule": "multiple"
+            },
+            "indentation": {
+                "left": 0,
+                "right": 0,
+                "firstLine": 0,
+                "hanging": 0
+            },
+            "isPageBreakBefore": false,
+            "isKeepWithNext": false,
+            "isKeepTogether": true
+        },
+        {
+            "id": "22",
+            "type": "paragraph",
+            "level": null,
+            "content": "建设党建馆，举办地质工作成就展，创建地质文化陈列馆，编撰地质大事记，在政府新闻发布平台集中发布“地质成就”，举办纪念章颁授仪式，创办文学刊物，各地勘单位、国有企业、大型矿企更加注重加强地质文化阵地建设，为地质文化的展示和传播提供了重要平台。",
+            "style": {
+                "fontFamily": "SimSun",
+                "fontSize": 14,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "color": "#000000",
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "isUnderline": false
+            },
+            "spacing": {
+                "before": 0,
+                "after": 0,
+                "lineSpacing": 1.5,
+                "lineSpacingRule": "multiple"
+            },
+            "indentation": {
+                "left": 0,
+                "right": 0,
+                "firstLine": 0,
+                "hanging": 0
+            },
+            "isPageBreakBefore": false,
+            "isKeepWithNext": false,
+            "isKeepTogether": true
+        },
+        {
+            "id": "23",
+            "type": "paragraph",
+            "level": null,
+            "content": "文化传播方式不断创新——",
+            "style": {
+                "fontFamily": "SimSun",
+                "fontSize": 14,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "color": "#000000",
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "isUnderline": false
+            },
+            "spacing": {
+                "before": 0,
+                "after": 0,
+                "lineSpacing": 1.5,
+                "lineSpacingRule": "multiple"
+            },
+            "indentation": {
+                "left": 0,
+                "right": 0,
+                "firstLine": 0,
+                "hanging": 0
+            },
+            "isPageBreakBefore": false,
+            "isKeepWithNext": false,
+            "isKeepTogether": true
+        },
+        {
+            "id": "24",
+            "type": "paragraph",
+            "level": null,
+            "content": "新的时代条件下，优秀地质传统文化正在“遇见”新生成的数字、技术、观念、价值，传统与现代的张力在时空交错中发生着交汇融通。创新传播方式，拓宽传播渠道，丰富话语表达，地质文化充分利用新媒体平台和网络技术手段，更加贴近群众、深入人心。",
+            "style": {
+                "fontFamily": "SimSun",
+                "fontSize": 14,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "color": "#000000",
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "isUnderline": false
+            },
+            "spacing": {
+                "before": 0,
+                "after": 0,
+                "lineSpacing": 1.5,
+                "lineSpacingRule": "multiple"
+            },
+            "indentation": {
+                "left": 0,
+                "right": 0,
+                "firstLine": 0,
+                "hanging": 0
+            },
+            "isPageBreakBefore": false,
+            "isKeepWithNext": false,
+            "isKeepTogether": true
+        },
+        {
+            "id": "25",
+            "type": "paragraph",
+            "level": null,
+            "content": "守正创新",
+            "style": {
+                "fontFamily": "SimSun",
+                "fontSize": 14,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "color": "#000000",
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "isUnderline": false
+            },
+            "spacing": {
+                "before": 0,
+                "after": 0,
+                "lineSpacing": 1.5,
+                "lineSpacingRule": "multiple"
+            },
+            "indentation": {
+                "left": 0,
+                "right": 0,
+                "firstLine": 0,
+                "hanging": 0
+            },
+            "isPageBreakBefore": false,
+            "isKeepWithNext": false,
+            "isKeepTogether": true
+        },
+        {
+            "id": "26",
+            "type": "paragraph",
+            "level": null,
+            "content": "文以化之，文以铸之。两年来，地质行业着力建设优秀地质传统文化传承发展体系，积极推进文物保护利用和文化遗产保护传承工作，以自信开放的姿态推动地质文化创新发展。",
+            "style": {
+                "fontFamily": "SimSun",
+                "fontSize": 14,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "color": "#000000",
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "isUnderline": false
+            },
+            "spacing": {
+                "before": 0,
+                "after": 0,
+                "lineSpacing": 1.5,
+                "lineSpacingRule": "multiple"
+            },
+            "indentation": {
+                "left": 0,
+                "right": 0,
+                "firstLine": 0,
+                "hanging": 0
+            },
+            "isPageBreakBefore": false,
+            "isKeepWithNext": false,
+            "isKeepTogether": true
+        },
+        {
+            "id": "27",
+            "type": "paragraph",
+            "level": null,
+            "content": "薪火相传，守护好地质文化根脉——",
+            "style": {
+                "fontFamily": "SimSun",
+                "fontSize": 14,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "color": "#000000",
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "isUnderline": false
+            },
+            "spacing": {
+                "before": 0,
+                "after": 0,
+                "lineSpacing": 1.5,
+                "lineSpacingRule": "multiple"
+            },
+            "indentation": {
+                "left": 0,
+                "right": 0,
+                "firstLine": 0,
+                "hanging": 0
+            },
+            "isPageBreakBefore": false,
+            "isKeepWithNext": false,
+            "isKeepTogether": true
+        },
+        {
+            "id": "28",
+            "type": "paragraph",
+            "level": null,
+            "content": "历史何其悠久，文明何其博大。从旧石器时代的泥河湾遗址群到周口店遗址，从日前贵州兴义世界地质公园申报成功到中国再添三处全球地质遗产地……",
+            "style": {
+                "fontFamily": "SimSun",
+                "fontSize": 14,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "color": "#000000",
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "isUnderline": false
+            },
+            "spacing": {
+                "before": 0,
+                "after": 0,
+                "lineSpacing": 1.5,
+                "lineSpacingRule": "multiple"
+            },
+            "indentation": {
+                "left": 0,
+                "right": 0,
+                "firstLine": 0,
+                "hanging": 0
+            },
+            "isPageBreakBefore": false,
+            "isKeepWithNext": false,
+            "isKeepTogether": true
+        },
+        {
+            "id": "29",
+            "type": "paragraph",
+            "level": null,
+            "content": "两年来，我国地质文化遗产保护领域不断拓宽，保护体系逐渐完善，保护成效日益凸显，保护意识不断增强。",
+            "style": {
+                "fontFamily": "SimSun",
+                "fontSize": 14,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "color": "#000000",
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "isUnderline": false
+            },
+            "spacing": {
+                "before": 0,
+                "after": 0,
+                "lineSpacing": 1.5,
+                "lineSpacingRule": "multiple"
+            },
+            "indentation": {
+                "left": 0,
+                "right": 0,
+                "firstLine": 0,
+                "hanging": 0
+            },
+            "isPageBreakBefore": false,
+            "isKeepWithNext": false,
+            "isKeepTogether": true
+        },
+        {
+            "id": "30",
+            "type": "paragraph",
+            "level": null,
+            "content": "文物和文化遗产承载着中华民族的基因和血脉，是不可再生、不可替代的中华优秀文明资源。目前，我国已有47个世界地质公园，位居全球首位，被公认为是世界上地质公园建设和地质遗迹保护最好的国家之一。如今，收藏在博物馆里的文物、陈列在广阔大地上的遗产、书写在古籍里的文字逐渐活了起来，优秀地质传统文化被赋予新的时代内涵、表现形式和生命活力。",
+            "style": {
+                "fontFamily": "SimSun",
+                "fontSize": 14,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "color": "#000000",
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "isUnderline": false
+            },
+            "spacing": {
+                "before": 0,
+                "after": 0,
+                "lineSpacing": 1.5,
+                "lineSpacingRule": "multiple"
+            },
+            "indentation": {
+                "left": 0,
+                "right": 0,
+                "firstLine": 0,
+                "hanging": 0
+            },
+            "isPageBreakBefore": false,
+            "isKeepWithNext": false,
+            "isKeepTogether": true
+        },
+        {
+            "id": "31",
+            "type": "paragraph",
+            "level": null,
+            "content": "领略山河壮美，见证地质沧桑。发挥地质作用，协同推进省域文化和旅游工作高质量发展，各地地勘队伍纷纷结合省情和地域特色，立足核心资源，做足“地质+”文章，充分利用旅游地学研究、地质遗迹调查、地质公园建设、文物保护修复等方面的资源优势和人才优势，推进文化和旅游深度融合。随着经济发展，“地质+文旅”“地质+生态”“地质+科普”“地质+文遗”等新业态如雨后春笋般迅速崛起、发展壮大。",
+            "style": {
+                "fontFamily": "SimSun",
+                "fontSize": 14,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "color": "#000000",
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "isUnderline": false
+            },
+            "spacing": {
+                "before": 0,
+                "after": 0,
+                "lineSpacing": 1.5,
+                "lineSpacingRule": "multiple"
+            },
+            "indentation": {
+                "left": 0,
+                "right": 0,
+                "firstLine": 0,
+                "hanging": 0
+            },
+            "isPageBreakBefore": false,
+            "isKeepWithNext": false,
+            "isKeepTogether": true
+        },
+        {
+            "id": "32",
+            "type": "paragraph",
+            "level": null,
+            "content": "如何进一步推动文旅等产业发展？怎样加快生态文明建设、科学保护地质遗迹、探索符合中国国情的发展模式？只有善于把弘扬优秀传统文化和发展现实文化有机统一、紧密结合起来，才能在继承中发展、在发展中继承。我国地质公园、地质博物馆、自然保护区等还需要充分保护利用，挖掘多重价值，传播更多承载地质文化、地质精神的价值符号和文化产品，让地质文脉绵延繁盛、历久弥新。",
+            "style": {
+                "fontFamily": "SimSun",
+                "fontSize": 14,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "color": "#000000",
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "isUnderline": false
+            },
+            "spacing": {
+                "before": 0,
+                "after": 0,
+                "lineSpacing": 1.5,
+                "lineSpacingRule": "multiple"
+            },
+            "indentation": {
+                "left": 0,
+                "right": 0,
+                "firstLine": 0,
+                "hanging": 0
+            },
+            "isPageBreakBefore": false,
+            "isKeepWithNext": false,
+            "isKeepTogether": true
+        },
+        {
+            "id": "33",
+            "type": "paragraph",
+            "level": null,
+            "content": "激扬风采，担负起新时代文化使命——",
+            "style": {
+                "fontFamily": "SimSun",
+                "fontSize": 14,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "color": "#000000",
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "isUnderline": false
+            },
+            "spacing": {
+                "before": 0,
+                "after": 0,
+                "lineSpacing": 1.5,
+                "lineSpacingRule": "multiple"
+            },
+            "indentation": {
+                "left": 0,
+                "right": 0,
+                "firstLine": 0,
+                "hanging": 0
+            },
+            "isPageBreakBefore": false,
+            "isKeepWithNext": false,
+            "isKeepTogether": true
+        },
+        {
+            "id": "34",
+            "type": "paragraph",
+            "level": null,
+            "content": "在文化传承发展座谈会上，习近平总书记以贯通古今的文化自觉，鲜明提出中华文明五个突出特性，深入阐释“两个结合”的重大意义，发出振奋人心的号召：“在新的起点上继续推动文化繁荣、建设文化强国、建设中华民族现代文明，是我们在新时代新的文化使命。”",
+            "style": {
+                "fontFamily": "SimSun",
+                "fontSize": 14,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "color": "#000000",
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "isUnderline": false
+            },
+            "spacing": {
+                "before": 0,
+                "after": 0,
+                "lineSpacing": 1.5,
+                "lineSpacingRule": "multiple"
+            },
+            "indentation": {
+                "left": 0,
+                "right": 0,
+                "firstLine": 0,
+                "hanging": 0
+            },
+            "isPageBreakBefore": false,
+            "isKeepWithNext": false,
+            "isKeepTogether": true
+        },
+        {
+            "id": "35",
+            "type": "paragraph",
+            "level": null,
+            "content": "激扬时代风采、传承文明薪火，地质宣传思想文化战线使命如磐、重任在肩。",
+            "style": {
+                "fontFamily": "SimSun",
+                "fontSize": 14,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "color": "#000000",
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "isUnderline": false
+            },
+            "spacing": {
+                "before": 0,
+                "after": 0,
+                "lineSpacing": 1.5,
+                "lineSpacingRule": "multiple"
+            },
+            "indentation": {
+                "left": 0,
+                "right": 0,
+                "firstLine": 0,
+                "hanging": 0
+            },
+            "isPageBreakBefore": false,
+            "isKeepWithNext": false,
+            "isKeepTogether": true
+        },
+        {
+            "id": "36",
+            "type": "paragraph",
+            "level": null,
+            "content": "两年来，地质宣传思想文化战线紧扣时代脉搏，深入学习领会习近平文化思想，把坚定文化自信、担负起新的文化使命转化为践行“两个维护”的实际行动，开展“高质量发展调研行”等主题采访，深入挖掘典型案例和鲜活故事，以小见大反映地质事业的韧性与活力；支撑自然资源部开展“勇担找矿突破重任，书写地质队伍新篇章”宣传活动；协助中国地质调查局联合中央主流媒体组织策划习近平总书记给山东省地矿局第六地质大队全体地质工作者重要回信报道、新一轮找矿突破战略行动、自然资源综合调查指挥中心转制改革等重大宣传活动，组织举办新时代地质文化艺术节，开展书法、诗歌、摄影、绘画、短视频、文艺演出等一系列地质文艺展览展播活动。一大批形式新颖、喜闻乐见、针对性强的教育和实践活动层出不穷，地质文化的生命力、创造力得以繁荣发展，地质文化的传播力、影响力得到显著增强。",
+            "style": {
+                "fontFamily": "SimSun",
+                "fontSize": 14,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "color": "#000000",
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "isUnderline": false
+            },
+            "spacing": {
+                "before": 0,
+                "after": 0,
+                "lineSpacing": 1.5,
+                "lineSpacingRule": "multiple"
+            },
+            "indentation": {
+                "left": 0,
+                "right": 0,
+                "firstLine": 0,
+                "hanging": 0
+            },
+            "isPageBreakBefore": false,
+            "isKeepWithNext": false,
+            "isKeepTogether": true
+        },
+        {
+            "id": "37",
+            "type": "paragraph",
+            "level": null,
+            "content": "以笔绘之，以画颂之。在地质文化建设中，如何讲好地质报国故事，如何讲得有温度、有内涵，并且还能传得开？100幅“文字+手绘图”组成的绘本《山河作证》，以现实主义的创作手法，全景式地呈现了中国地质大学（武汉）在70年办学征程中，一代代师生牢记地质初心和使命，艰苦朴素、求真务实，在地质人才培养、地质研究、地质找矿当中的使命和担当。只有深植中华优秀传统文化的丰厚沃土，推动创造性转化、创新性发展，地质文化的“一池春水”才能被深度激活，焕发出勃勃生机。",
+            "style": {
+                "fontFamily": "SimSun",
+                "fontSize": 14,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "color": "#000000",
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "isUnderline": false
+            },
+            "spacing": {
+                "before": 0,
+                "after": 0,
+                "lineSpacing": 1.5,
+                "lineSpacingRule": "multiple"
+            },
+            "indentation": {
+                "left": 0,
+                "right": 0,
+                "firstLine": 0,
+                "hanging": 0
+            },
+            "isPageBreakBefore": false,
+            "isKeepWithNext": false,
+            "isKeepTogether": true
+        },
+        {
+            "id": "38",
+            "type": "paragraph",
+            "level": null,
+            "content": "交流互鉴，推动地质文明繁荣发展——",
+            "style": {
+                "fontFamily": "SimSun",
+                "fontSize": 14,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "color": "#000000",
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "isUnderline": false
+            },
+            "spacing": {
+                "before": 0,
+                "after": 0,
+                "lineSpacing": 1.5,
+                "lineSpacingRule": "multiple"
+            },
+            "indentation": {
+                "left": 0,
+                "right": 0,
+                "firstLine": 0,
+                "hanging": 0
+            },
+            "isPageBreakBefore": false,
+            "isKeepWithNext": false,
+            "isKeepTogether": true
+        },
+        {
+            "id": "39",
+            "type": "paragraph",
+            "level": null,
+            "content": "“一朵鲜花打扮不出美丽的春天，百花齐放才能让世界春色满园。”",
+            "style": {
+                "fontFamily": "SimSun",
+                "fontSize": 14,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "color": "#000000",
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "isUnderline": false
+            },
+            "spacing": {
+                "before": 0,
+                "after": 0,
+                "lineSpacing": 1.5,
+                "lineSpacingRule": "multiple"
+            },
+            "indentation": {
+                "left": 0,
+                "right": 0,
+                "firstLine": 0,
+                "hanging": 0
+            },
+            "isPageBreakBefore": false,
+            "isKeepWithNext": false,
+            "isKeepTogether": true
+        },
+        {
+            "id": "40",
+            "type": "paragraph",
+            "level": null,
+            "content": "向全社会展现可亲、可敬、可学的新时代地质工作者形象，营造多元互动、百花齐放的地质人文交流局面，是宣传思想文化工作的职责使命。",
+            "style": {
+                "fontFamily": "SimSun",
+                "fontSize": 14,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "color": "#000000",
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "isUnderline": false
+            },
+            "spacing": {
+                "before": 0,
+                "after": 0,
+                "lineSpacing": 1.5,
+                "lineSpacingRule": "multiple"
+            },
+            "indentation": {
+                "left": 0,
+                "right": 0,
+                "firstLine": 0,
+                "hanging": 0
+            },
+            "isPageBreakBefore": false,
+            "isKeepWithNext": false,
+            "isKeepTogether": true
+        },
+        {
+            "id": "41",
+            "type": "paragraph",
+            "level": null,
+            "content": "两年来，地质宣传思想文化战线坚持国家站位、全球视野，更加鲜明地展现中国故事及其背后的地质文化内涵和精神力量，推动地质与其他文化交流互鉴，不断焕发新的生命力。",
+            "style": {
+                "fontFamily": "SimSun",
+                "fontSize": 14,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "color": "#000000",
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "isUnderline": false
+            },
+            "spacing": {
+                "before": 0,
+                "after": 0,
+                "lineSpacing": 1.5,
+                "lineSpacingRule": "multiple"
+            },
+            "indentation": {
+                "left": 0,
+                "right": 0,
+                "firstLine": 0,
+                "hanging": 0
+            },
+            "isPageBreakBefore": false,
+            "isKeepWithNext": false,
+            "isKeepTogether": true
+        },
+        {
+            "id": "42",
+            "type": "paragraph",
+            "level": null,
+            "content": "地球科学与文化研讨会，地质宣传和地质文化传播工作培训班，全国自然资源宣传思想文化工作会，自然资源与生态文明论坛等成功举办，包括大地质、大科学、大自然等在内的自然资源文化传播在更大范围、更深层次得到充分交流，为谱写中国式现代化地质新篇章增添更加鲜明、更加厚重的生动底色。",
+            "style": {
+                "fontFamily": "SimSun",
+                "fontSize": 14,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "color": "#000000",
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "isUnderline": false
+            },
+            "spacing": {
+                "before": 0,
+                "after": 0,
+                "lineSpacing": 1.5,
+                "lineSpacingRule": "multiple"
+            },
+            "indentation": {
+                "left": 0,
+                "right": 0,
+                "firstLine": 0,
+                "hanging": 0
+            },
+            "isPageBreakBefore": false,
+            "isKeepWithNext": false,
+            "isKeepTogether": true
+        },
+        {
+            "id": "43",
+            "type": "paragraph",
+            "level": null,
+            "content": "透过期刊论文，我们发现，越来越多的专家学者关注地质文化、研究地质文明；",
+            "style": {
+                "fontFamily": "SimSun",
+                "fontSize": 14,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "color": "#000000",
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "isUnderline": false
+            },
+            "spacing": {
+                "before": 0,
+                "after": 0,
+                "lineSpacing": 1.5,
+                "lineSpacingRule": "multiple"
+            },
+            "indentation": {
+                "left": 0,
+                "right": 0,
+                "firstLine": 0,
+                "hanging": 0
+            },
+            "isPageBreakBefore": false,
+            "isKeepWithNext": false,
+            "isKeepTogether": true
+        },
+        {
+            "id": "44",
+            "type": "paragraph",
+            "level": null,
+            "content": "纵观国际会议，外宾坚信，地质文明会积极促成更多国家间的对话交流合作。",
+            "style": {
+                "fontFamily": "SimSun",
+                "fontSize": 14,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "color": "#000000",
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "isUnderline": false
+            },
+            "spacing": {
+                "before": 0,
+                "after": 0,
+                "lineSpacing": 1.5,
+                "lineSpacingRule": "multiple"
+            },
+            "indentation": {
+                "left": 0,
+                "right": 0,
+                "firstLine": 0,
+                "hanging": 0
+            },
+            "isPageBreakBefore": false,
+            "isKeepWithNext": false,
+            "isKeepTogether": true
+        },
+        {
+            "id": "45",
+            "type": "paragraph",
+            "level": null,
+            "content": "地质文化的魅力吸引着来自社会各领域的目光，为更好读懂地质、读懂地质文化、读懂中国地质文明开启了一扇窗。",
+            "style": {
+                "fontFamily": "SimSun",
+                "fontSize": 14,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "color": "#000000",
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "isUnderline": false
+            },
+            "spacing": {
+                "before": 0,
+                "after": 0,
+                "lineSpacing": 1.5,
+                "lineSpacingRule": "multiple"
+            },
+            "indentation": {
+                "left": 0,
+                "right": 0,
+                "firstLine": 0,
+                "hanging": 0
+            },
+            "isPageBreakBefore": false,
+            "isKeepWithNext": false,
+            "isKeepTogether": true
+        },
+        {
+            "id": "46",
+            "type": "paragraph",
+            "level": null,
+            "content": "立心铸魂",
+            "style": {
+                "fontFamily": "SimSun",
+                "fontSize": 14,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "color": "#000000",
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "isUnderline": false
+            },
+            "spacing": {
+                "before": 0,
+                "after": 0,
+                "lineSpacing": 1.5,
+                "lineSpacingRule": "multiple"
+            },
+            "indentation": {
+                "left": 0,
+                "right": 0,
+                "firstLine": 0,
+                "hanging": 0
+            },
+            "isPageBreakBefore": false,
+            "isKeepWithNext": false,
+            "isKeepTogether": true
+        },
+        {
+            "id": "47",
+            "type": "paragraph",
+            "level": null,
+            "content": "金秋时节，我国地质行业将迎来一部《新时代弘扬地质优良传统》读物。",
+            "style": {
+                "fontFamily": "SimSun",
+                "fontSize": 14,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "color": "#000000",
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "isUnderline": false
+            },
+            "spacing": {
+                "before": 0,
+                "after": 0,
+                "lineSpacing": 1.5,
+                "lineSpacingRule": "multiple"
+            },
+            "indentation": {
+                "left": 0,
+                "right": 0,
+                "firstLine": 0,
+                "hanging": 0
+            },
+            "isPageBreakBefore": false,
+            "isKeepWithNext": false,
+            "isKeepTogether": true
+        },
+        {
+            "id": "48",
+            "type": "paragraph",
+            "level": null,
+            "content": "地质优良传统由何而来？如何全面、系统诠释与解读地质优良传统？新时代如何传承地质优良传统？这部承载百年峥嵘记忆、彰显新时代地质报国的读物里，一个个人物、一次次突破、一张张照片，记录着地质人独特的精神标识。",
+            "style": {
+                "fontFamily": "SimSun",
+                "fontSize": 14,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "color": "#000000",
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "isUnderline": false
+            },
+            "spacing": {
+                "before": 0,
+                "after": 0,
+                "lineSpacing": 1.5,
+                "lineSpacingRule": "multiple"
+            },
+            "indentation": {
+                "left": 0,
+                "right": 0,
+                "firstLine": 0,
+                "hanging": 0
+            },
+            "isPageBreakBefore": false,
+            "isKeepWithNext": false,
+            "isKeepTogether": true
+        },
+        {
+            "id": "49",
+            "type": "paragraph",
+            "level": null,
+            "content": "我国地质队伍伴随着共和国的成长而不断发展壮大，也在丰富的实践中积累了宝贵经验，在奋斗中凝练出闪闪发光的地质文化，以“爱国奉献、开拓创新、艰苦奋斗”为核心的地质人精神谱系，滋养了一代代地质工作者的心灵家园。",
+            "style": {
+                "fontFamily": "SimSun",
+                "fontSize": 14,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "color": "#000000",
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "isUnderline": false
+            },
+            "spacing": {
+                "before": 0,
+                "after": 0,
+                "lineSpacing": 1.5,
+                "lineSpacingRule": "multiple"
+            },
+            "indentation": {
+                "left": 0,
+                "right": 0,
+                "firstLine": 0,
+                "hanging": 0
+            },
+            "isPageBreakBefore": false,
+            "isKeepWithNext": false,
+            "isKeepTogether": true
+        },
+        {
+            "id": "50",
+            "type": "paragraph",
+            "level": null,
+            "content": "人无精神则不立，国无精神则不强。强国建设、民族复兴，需要强大的物质力量，也需要强大的精神力量。两年来，地质矿业行业更加注重物质文明和精神文明协调发展，坚持一手抓物质文明、一手抓精神文明，在推动地质事业快速发展的同时，促进优秀地质文化繁荣发展，加强“爱国奉献、开拓创新、艰苦奋斗”优良地质传统的传承与创新，立志气、强骨气、筑底气。",
+            "style": {
+                "fontFamily": "SimSun",
+                "fontSize": 14,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "color": "#000000",
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "isUnderline": false
+            },
+            "spacing": {
+                "before": 0,
+                "after": 0,
+                "lineSpacing": 1.5,
+                "lineSpacingRule": "multiple"
+            },
+            "indentation": {
+                "left": 0,
+                "right": 0,
+                "firstLine": 0,
+                "hanging": 0
+            },
+            "isPageBreakBefore": false,
+            "isKeepWithNext": false,
+            "isKeepTogether": true
+        },
+        {
+            "id": "51",
+            "type": "paragraph",
+            "level": null,
+            "content": "伟大的事业需要伟大的精神。实现中华民族伟大复兴中国梦，奋力推进地质事业高质量发展，必须弘扬地质精神、凝聚地质力量。",
+            "style": {
+                "fontFamily": "SimSun",
+                "fontSize": 14,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "color": "#000000",
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "isUnderline": false
+            },
+            "spacing": {
+                "before": 0,
+                "after": 0,
+                "lineSpacing": 1.5,
+                "lineSpacingRule": "multiple"
+            },
+            "indentation": {
+                "left": 0,
+                "right": 0,
+                "firstLine": 0,
+                "hanging": 0
+            },
+            "isPageBreakBefore": false,
+            "isKeepWithNext": false,
+            "isKeepTogether": true
+        },
+        {
+            "id": "52",
+            "type": "paragraph",
+            "level": null,
+            "content": "从全国劳动模范、先进工作者、“全国五一劳动奖章”获得者、“大国工匠”等持续发布，到中央和国家机关三八红旗手和全国技术能手等先进典型表彰，到启动“身边人身边事” 先进模范寻访活动，再到致敬防汛抗洪、抗震救灾、野外条件支撑保障的逆行身影、凡人善举……",
+            "style": {
+                "fontFamily": "SimSun",
+                "fontSize": 14,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "color": "#000000",
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "isUnderline": false
+            },
+            "spacing": {
+                "before": 0,
+                "after": 0,
+                "lineSpacing": 1.5,
+                "lineSpacingRule": "multiple"
+            },
+            "indentation": {
+                "left": 0,
+                "right": 0,
+                "firstLine": 0,
+                "hanging": 0
+            },
+            "isPageBreakBefore": false,
+            "isKeepWithNext": false,
+            "isKeepTogether": true
+        },
+        {
+            "id": "53",
+            "type": "paragraph",
+            "level": null,
+            "content": "遇见光，追逐光，成为光，散发光。两年来，地质行业宣传思想文化战线倾情讲述榜样事迹、展现英模品格，在全社会厚植精神沃土、涵养文明底蕴，汇聚起向上向善的精神动力。",
+            "style": {
+                "fontFamily": "SimSun",
+                "fontSize": 14,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "color": "#000000",
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "isUnderline": false
+            },
+            "spacing": {
+                "before": 0,
+                "after": 0,
+                "lineSpacing": 1.5,
+                "lineSpacingRule": "multiple"
+            },
+            "indentation": {
+                "left": 0,
+                "right": 0,
+                "firstLine": 0,
+                "hanging": 0
+            },
+            "isPageBreakBefore": false,
+            "isKeepWithNext": false,
+            "isKeepTogether": true
+        },
+        {
+            "id": "54",
+            "type": "paragraph",
+            "level": null,
+            "content": "人民有信仰，国家有力量，民族有希望。新一轮找矿突破战略行动捷报频传，野外综合保障基地逐步健全等无不贯通文脉、彰显自信。",
+            "style": {
+                "fontFamily": "SimSun",
+                "fontSize": 14,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "color": "#000000",
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "isUnderline": false
+            },
+            "spacing": {
+                "before": 0,
+                "after": 0,
+                "lineSpacing": 1.5,
+                "lineSpacingRule": "multiple"
+            },
+            "indentation": {
+                "left": 0,
+                "right": 0,
+                "firstLine": 0,
+                "hanging": 0
+            },
+            "isPageBreakBefore": false,
+            "isKeepWithNext": false,
+            "isKeepTogether": true
+        },
+        {
+            "id": "55",
+            "type": "paragraph",
+            "level": null,
+            "content": "又踏层峰望眼开，更扬云帆立潮头。新征程上，在习近平文化思想科学指引下，新时代地质事业着眼高质量发展，正饱蘸历史笔墨，挥写地质文化新篇章。",
+            "style": {
+                "fontFamily": "SimSun",
+                "fontSize": 14,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "color": "#000000",
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "isUnderline": false
+            },
+            "spacing": {
+                "before": 0,
+                "after": 0,
+                "lineSpacing": 1.5,
+                "lineSpacingRule": "multiple"
+            },
+            "indentation": {
+                "left": 0,
+                "right": 0,
+                "firstLine": 0,
+                "hanging": 0
+            },
+            "isPageBreakBefore": false,
+            "isKeepWithNext": false,
+            "isKeepTogether": true
+        }
+    ],
+    "styles": {
+        "heading1": {
+            "fontFamily": "SimHei",
+            "fontSize": 22,
+            "fontWeight": "bold",
+            "fontStyle": "normal",
+            "color": "#000000",
+            "lineHeight": 1.5,
+            "textAlign": "left",
+            "isUnderline": false,
+            "isStrikethrough": false
+        },
+        "heading2": {
+            "fontFamily": "SimHei",
+            "fontSize": 20,
+            "fontWeight": "bold",
+            "fontStyle": "normal",
+            "color": "#000000",
+            "lineHeight": 1.5,
+            "textAlign": "left",
+            "isUnderline": false,
+            "isStrikethrough": false
+        },
+        "heading3": {
+            "fontFamily": "SimHei",
+            "fontSize": 18,
+            "fontWeight": "bold",
+            "fontStyle": "normal",
+            "color": "#000000",
+            "lineHeight": 1.5,
+            "textAlign": "left",
+            "isUnderline": false,
+            "isStrikethrough": false
+        },
+        "normal": {
+            "fontFamily": "SimSun",
+            "fontSize": 14,
+            "fontWeight": "normal",
+            "fontStyle": "normal",
+            "color": "#000000",
+            "lineHeight": 1.5,
+            "textAlign": "left",
+            "isUnderline": false,
+            "isStrikethrough": false
+        }
+    },
+    "defaultNumberingFormats": {}
+}

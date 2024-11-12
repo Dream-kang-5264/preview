@@ -1,0 +1,365 @@
+.theme {
+  // overflow: auto;
+  height: 90%;
+  overflow-x: hidden;
+  padding-right: 10px;
+
+
+
+  :global(.ant-select) {
+    width: 65%;
+  }
+
+  :global(.ant-radio-button-wrapper) {
+    font-size: 12px;
+  }
+
+  :global(.ant-radio-button-wrapper) {
+    font-size: 12px;
+  }
+
+  .textMaterial {
+    background: #fff;
+    padding: 10px;
+    border-radius: 5px;
+
+  }
+
+  .ModelEssay {
+    background: none;
+  }
+
+  .meterial_list_item {
+    background: #fff;
+    display: flex;
+    padding: 10px;
+    margin-top: 10px;
+    align-items: center;
+    border-radius: 5px;
+    position: relative;
+
+    .meterial_list_item_img {
+      width: 10%;
+      text-align: center;
+
+      img {
+        width: 30px;
+        border-radius: 3px;
+      }
+    }
+
+    .meterial_list_item_text {
+      width: 90%;
+      // background: red;
+      flex: 1;
+      padding-left: 20px;
+
+      .meterial_list_item_text_title {
+        width: 100%;
+        // 单行文本省略号
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 1;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+
+      .meterial_list_item_text_size {
+        font-size: 12px;
+        color: #ccc;
+      }
+
+
+    }
+
+    .meterial_list_item_text_del {
+      cursor: pointer;
+      position: absolute;
+      top: 0px;
+      right: 8px;
+      color: #999;
+    }
+
+  }
+
+  .writtenTool_body_Material {
+    padding: 20px;
+    border-radius: 5px;
+    border: 1px #ccc solid;
+    display: flex;
+    background: #fff;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+  }
+
+  .meterial_list_item {
+    background: #fff;
+    display: flex;
+    padding: 10px;
+    margin-top: 10px;
+    align-items: center;
+    border-radius: 5px;
+    position: relative;
+
+    .meterial_list_item_img {
+      width: 10%;
+      text-align: center;
+
+      img {
+        width: 30px;
+        border-radius: 3px;
+      }
+    }
+
+    .meterial_list_item_text {
+      width: 90%;
+      // background: red;
+      flex: 1;
+      padding-left: 20px;
+
+      .meterial_list_item_text_title {
+        width: 100%;
+        // 单行文本省略号
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 1;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+
+      .meterial_list_item_text_size {
+        font-size: 12px;
+        color: #ccc;
+      }
+
+
+    }
+
+    .meterial_list_item_text_del {
+      cursor: pointer;
+      position: absolute;
+      top: 0px;
+      right: 8px;
+      color: #999;
+    }
+
+  }
+
+  // 素材的样式
+  .MaterialStyle {
+    font-weight: 500;
+
+    :global(.ant-drawer-content) {}
+
+    .MaterialStyle_content {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+
+      .search_content_item {
+        cursor: pointer;
+        width: 48%;
+        margin-top: 1vh;
+        border: 1px solid #ccc;
+        border-radius: 1vh;
+        padding: 1vh;
+        font-size: 1.5vh;
+
+        .search_content_item_text {
+          display: -webkit-box;
+          -webkit-box-orient: vertical;
+          -webkit-line-clamp: 2;
+          overflow: hidden;
+          text-overflow: ellipsis;
+        }
+      }
+    }
+
+    .MaterialStyle_form {
+      display: flex;
+      border: 1px solid #000;
+      border-radius: 1vh;
+
+      input {
+        outline: none;
+        border: none;
+        background: none;
+        flex: 1;
+      }
+
+      button {
+        border-radius: 1vh;
+        border: none;
+        background: #8a7ef8;
+
+      }
+    }
+
+    .MaterialStyle_type {
+      padding: 1vh 0;
+    }
+
+    .search_class_list_item_active {
+      color: blue;
+      padding: 0 1vh;
+    }
+
+    .search_class_list_item {
+      padding: 0 1vh;
+    }
+
+    span {
+      cursor: pointer;
+    }
+  }
+}
+
+
+// 大纲的样式
+.outline_body {
+  padding: 1vh;
+  // overflow: auto;
+  // flex: 1;
+  height: 90%;
+
+  :global(.ant-tree-list-holder) {
+    background: linear-gradient(to bottom, #E3F1FE, #EAF2FC);
+  }
+
+  // background: red;
+  .outline_title {
+    font-style: 16px;
+
+  }
+
+  :global(.ant-tree-switcher) {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+
+
+  }
+
+
+  .ant-cascader-menu {
+    max-height: 15px;
+    /* 调整下拉菜单的最大高度 */
+  }
+
+  :global(.ant-tree-switcher:before) {
+    // left: 1vh;
+    top: 1vh;
+  }
+
+  // :global(.ant-tree-switcher) {
+
+  // }
+
+  .outline_item {
+    border-bottom: 1px #ccc solid;
+    display: flex;
+    justify-content: space-between;
+    font-size: 1vw;
+
+    .outline_item_title {
+      color: blue;
+    }
+  }
+}
+
+// 摘编的样式
+.extract_body {
+
+  flex: 1;
+  height: 90%;
+
+  padding-right: 10px;
+
+  .extract_title {
+    font-style: 16px;
+
+
+  }
+
+  .extract_item {
+    display: flex;
+    justify-content: space-between;
+
+    padding: 1vh 0;
+    background: #fff;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+
+    .extract_item_context {
+      flex: 1;
+    }
+
+    .extract_item_icon {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      margin-left: 10px;
+    }
+  }
+}
+
+// 长文的样式
+.written_body {
+  // overflow: auto;
+  flex: 1;
+  height: 90%;
+  position: relative;
+  // padding: 0 2vh;
+  border-radius: 10px;
+  h1 {
+    font-size: 2.5em;
+    /* 设置字体大小 */
+    line-height: 1.2;
+    /* 行高 */
+  }
+
+  h2 {
+    font-size: 2em;
+    line-height: 1.3;
+  }
+
+  h3 {
+    font-size: 1.75em;
+    line-height: 1.4;
+  }
+
+  h4 {
+    font-size: 1.5em;
+    line-height: 1.5;
+  }
+
+  h5 {
+    font-size: 1.25em;
+    line-height: 1.6;
+  }
+
+  h6 {
+    font-size: 1em;
+    line-height: 1.7;
+  }
+  .written_title {
+    font-style: 16px;
+    font-weight: 400;
+
+    background: #E3F0FF;
+  }
+
+  .written_content {
+    margin-top: 5px;
+    background: #fff;
+    border-radius: 10px;
+    padding: 10px;
+    margin-right: 10px;
+  }
+}
+
+:global(.ant-drawer-content-wrapper) {
+  width: 100% !important;
+}
